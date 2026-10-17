@@ -1,0 +1,6 @@
+.gemini/
+.agents/
+*.log
+scratch/
+test_*.php
+setup_*.ps1

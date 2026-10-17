@@ -1,0 +1,6 @@
+.git
+.agents
+.gemini
+*.log
+scratch/
+test_endpoints.php
